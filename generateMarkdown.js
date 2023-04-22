@@ -73,6 +73,15 @@ function generateMarkdown(data) {
   ## Description
   #${data.description}\n
 
+  ## Table of Contents
+  *[Installation](#installation)
+  *[Usage](#usage)
+  *[License](#license)
+  *[Contributing](#contributing)
+  *[Tests](#tests)
+  *[Questions](#questions)\n
+      
+
   ## Installation
   #${data.install}\n
 

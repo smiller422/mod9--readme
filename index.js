@@ -54,7 +54,12 @@ const questions  = [
     },
     {
       type: 'input',
-      message: 'Questions:',
+      message: 'GitHub User Name:',
+      name: 'confirm',
+    },
+    {
+      type: 'input',
+      message: 'Email:',
       name: 'confirm',
     },
 ]
